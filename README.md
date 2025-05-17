@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/rabiulchoukidar/rabiul-choukidar/blob/main/Test.png" alt="Rabiul Choukidar Logo" width="160" />
+  <img src="https://github.com/rabiul-choukidar/rabiul-choukidar/blob/main/Test.png" alt="Rabiul Choukidar Logo" width="160" />
 </p>
 
 <!-- Animated Typing Header -->
