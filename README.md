@@ -23,6 +23,19 @@
 
 ---
 
+<!-- Contact Section -->
+<h2 align="center">📫 Contact Me</h2>
+<p align="center">
+  <a href="mailto:rabiulchoukidar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rabiulchoukidar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.facebook.com/rabiulchoukider" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</p>
+
+---
+
 <!-- Socials and Contact (add/modify as needed) -->
 <p align="center">
   <a href="https://github.com/rabiul-choukidar">
