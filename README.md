@@ -1,5 +1,6 @@
-![I am rabiul-choukidar](https://github.com/rabiulchoukidar/rabiul-choukidar/blob/main/Test.png)
-
+<p align="center">
+  <img src="https://github.com/rabiulchoukidar/rabiul-choukidar/blob/main/Test.png" alt="I am rabiul-choukidar">
+</p>
 <h1 align="center">Hi 👋, I'm RABIUL CHOUKIDAR</h1>
 <h3 align="center">Programmer | Apps Developer | Web Developer</h3>
 <h4 align="center">Co-founder Lazrah</h4>
