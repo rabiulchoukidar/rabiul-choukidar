@@ -27,7 +27,7 @@
 <!-- About Section -->
 <h2 align="center">✨ About Me</h2>
 <p align="center">
-  🔭 Currently working on <a href="https://lazrah.com/" target="_blank"><b>Lazrah</b></a> <br>
+  🔭 Co-founder <a href="https://lazrah.com/" target="_blank"><b>Lazrah</b></a> <br>
   🌱 Learning: <b>HTML, Java, C++, Python</b> <br>
   💬 Ask me about <b>web development, open source, and anything tech!</b> <br>
   📫 <b>Email:</b> rabiulchoukidar@gmail.com
